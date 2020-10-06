@@ -1,0 +1,5 @@
+C:\Users\danie\Downloads\processo-seletivo-master\Helpers\bin\Debug\Helpers.dll
+C:\Users\danie\Downloads\processo-seletivo-master\Helpers\bin\Debug\Helpers.pdb
+C:\Users\danie\Downloads\processo-seletivo-master\Helpers\obj\Debug\Helpers.csproj.CoreCompileInputs.cache
+C:\Users\danie\Downloads\processo-seletivo-master\Helpers\obj\Debug\Helpers.dll
+C:\Users\danie\Downloads\processo-seletivo-master\Helpers\obj\Debug\Helpers.pdb
